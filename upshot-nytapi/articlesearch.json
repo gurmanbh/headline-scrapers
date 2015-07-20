@@ -1,0 +1,1038 @@
+{
+  "response": {
+    "meta": {
+      "hits": 898,
+      "time": 89,
+      "offset": 0
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2015/01/01/upshot/census-bureaus-plan-to-cut-marriage-and-divorce-questions-has-academics-up-in-arms.html",
+        "snippet": "Already, a series of unrelated policy decisions has reduced the ability to track family change in America.",
+        "lead_paragraph": "Already, a series of unrelated policy decisions has reduced the ability to track family change in America.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2015/01/07/upshot/01UP-Divorce/01UP-Divorce-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2015/01/07/upshot/01UP-Divorce/01UP-Divorce-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2015/01/07/upshot/01UP-Divorce/01UP-Divorce-articleLarge.jpg",
+            "height": 399,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/01/07/upshot/01UP-Divorce/01UP-Divorce-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2015/01/07/upshot/01UP-Divorce/01UP-Divorce-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/01/07/upshot/01UP-Divorce/01UP-Divorce-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Census Bureau’s Plan to Cut Marriage and Divorce Questions Has Academics Up in Arms",
+          "kicker": "The Upshot",
+          "content_kicker": "Vanishing Data"
+        },
+        "keywords": [
+          {
+            "value": "Census Bureau",
+            "is_major": "N",
+            "rank": "1",
+            "name": "organizations"
+          },
+          {
+            "value": "Marriages",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Divorce, Separations and Annulments",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          },
+          {
+            "value": "Statistics",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          },
+          {
+            "value": "Social Conditions and Trends",
+            "is_major": "N",
+            "rank": "5",
+            "name": "subject"
+          },
+          {
+            "value": "Families and Family Life",
+            "is_major": "N",
+            "rank": "6",
+            "name": "subject"
+          },
+          {
+            "value": "United States",
+            "is_major": "N",
+            "rank": "7",
+            "name": "glocations"
+          }
+        ],
+        "pub_date": "2015-01-01T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Justin",
+              "lastname": "WOLFERS"
+            }
+          ],
+          "original": "By JUSTIN WOLFERS"
+        },
+        "type_of_material": "News",
+        "_id": "54a4200438f0d80267d2a81f",
+        "word_count": "1418"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2015/01/01/upshot/new-enrollment-numbers-show-importance-of-coming-supreme-court-case.html",
+        "snippet": "The subsidies that the court may eradicate are helping a large majority of HealthCare.gov customers pay for their medical insurance.",
+        "lead_paragraph": "The subsidies that the court may eradicate are helping a large majority of HealthCare.gov customers pay for their medical insurance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2015/01/01/upshot/01UP-Subsidy/01UP-Subsidy-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2015/01/01/upshot/01UP-Subsidy/01UP-Subsidy-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2015/01/01/upshot/01UP-Subsidy/01UP-Subsidy-articleLarge.jpg",
+            "height": 399,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/01/01/upshot/01UP-Subsidy/01UP-Subsidy-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2015/01/01/upshot/01UP-Subsidy/01UP-Subsidy-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/01/01/upshot/01UP-Subsidy/01UP-Subsidy-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Health Plan Enrollment Numbers Show Importance of Coming Supreme Court Case",
+          "kicker": "The Upshot",
+          "content_kicker": "The New Health Care"
+        },
+        "keywords": [
+          {
+            "value": "Health Insurance and Managed Care",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "Patient Protection and Affordable Care Act (2010)",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "States (US)",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          },
+          {
+            "value": "Federal Aid (US)",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          },
+          {
+            "value": "HealthCare.gov",
+            "is_major": "N",
+            "rank": "5",
+            "name": "organizations"
+          },
+          {
+            "value": "Supreme Court (US)",
+            "is_major": "N",
+            "rank": "6",
+            "name": "organizations"
+          }
+        ],
+        "pub_date": "2015-01-01T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Margot",
+              "lastname": "SANGER-KATZ"
+            }
+          ],
+          "original": "By MARGOT SANGER-KATZ"
+        },
+        "type_of_material": "News",
+        "_id": "54a3ea7f38f0d80267d2a02e",
+        "word_count": "464"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/31/upshot/as-feared-its-a-season-of-high-flu-intensity.html",
+        "snippet": "This year’s strain is proving to be a problem, with an early start to the season and a mismatch with the vaccine.",
+        "lead_paragraph": "This year’s strain is proving to be a problem, with an early start to the season and a mismatch with the vaccine.",
+        "abstract": "The Upshot; Centers for Disease Control and Prevention says nation is having bad flu season, with many cases and many severe ones requiring hospitalization; 22 states and Puerto Rico report epidemic levels; season started early, vaccination rate was low and vaccine is only partly effective.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2014/12/31/upshot/31UP-Flu/31UP-Flu-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2014/12/31/upshot/31UP-Flu/31UP-Flu-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2014/12/31/upshot/31UP-Flu/31UP-Flu-articleLarge.jpg",
+            "height": 388,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/31/upshot/31UP-Flu/31UP-Flu-articleLarge.jpg",
+              "xlargeheight": "388"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2014/12/31/upshot/31UP-Flu/31UP-Flu-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/31/upshot/31UP-Flu/31UP-Flu-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As Feared, It’s a Season of High Flu Intensity",
+          "content_kicker": "Disease Control",
+          "kicker": "The Upshot",
+          "print_headline": "Flu Season Is Shaping Up as Intense, With a Low Vaccination Rate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Influenza"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Vaccination and Immunization"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Centers for Disease Control and Prevention"
+          }
+        ],
+        "pub_date": "2014-12-31T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margot",
+              "rank": 1,
+              "lastname": "SANGER-KATZ"
+            }
+          ],
+          "original": "By MARGOT SANGER-KATZ"
+        },
+        "type_of_material": "News",
+        "_id": "54a32ba538f0d80267d29290",
+        "word_count": "856"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/31/upshot/pollution-around-the-world-a-matter-of-choices.html",
+        "snippet": "Europe’s level of pollution may surprise some people, but it all comes down to a society’s priorities.",
+        "lead_paragraph": "Europe’s level of pollution may surprise some people, but it all comes down to a society’s priorities.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/31/upshot/27UP-Pollution/27UP-Pollution-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/31/upshot/27UP-Pollution/27UP-Pollution-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/31/upshot/27UP-Pollution/27UP-Pollution-articleLarge.jpg",
+            "height": 397,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/31/upshot/27UP-Pollution/27UP-Pollution-articleLarge.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/31/upshot/27UP-Pollution/27UP-Pollution-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/31/upshot/27UP-Pollution/27UP-Pollution-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pollution Around the World: A Matter of Choices",
+          "kicker": "The Upshot",
+          "content_kicker": "On the Environment"
+        },
+        "keywords": [
+          {
+            "value": "Air Pollution",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "Regulation and Deregulation of Industry",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "World Health Organization",
+            "is_major": "N",
+            "rank": "3",
+            "name": "organizations"
+          },
+          {
+            "value": "China",
+            "is_major": "N",
+            "rank": "4",
+            "name": "glocations"
+          },
+          {
+            "value": "Europe",
+            "is_major": "N",
+            "rank": "5",
+            "name": "glocations"
+          },
+          {
+            "value": "India",
+            "is_major": "N",
+            "rank": "6",
+            "name": "glocations"
+          }
+        ],
+        "pub_date": "2014-12-31T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Michael",
+              "lastname": "GREENSTONE"
+            }
+          ],
+          "original": "By MICHAEL GREENSTONE"
+        },
+        "type_of_material": "News",
+        "_id": "54a2ba5c38f0d85064bfc84a",
+        "word_count": "619"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/30/upshot/health-law-helped-adults-now-what-about-children.html",
+        "snippet": "A successful program for children’s health insurance is up for renewal next year. It covers important things that the Affordable Care Act sometimes does not.",
+        "lead_paragraph": "A successful program for children’s health insurance is up for renewal next year. It covers important things that the Affordable Care Act sometimes does not.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/29/upshot/29UP-Health/29UP-Health-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/29/upshot/29UP-Health/29UP-Health-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/29/upshot/29UP-Health/29UP-Health-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/29/upshot/29UP-Health/29UP-Health-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/29/upshot/29UP-Health/29UP-Health-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/29/upshot/29UP-Health/29UP-Health-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Health Law Helped Adults. Now, What About Children?",
+          "kicker": "The Upshot",
+          "content_kicker": "The New Health Care"
+        },
+        "keywords": [
+          {
+            "value": "Health Insurance and Managed Care",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "State Children's Health Insurance Program (S-CHIP)",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Patient Protection and Affordable Care Act (2010)",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          },
+          {
+            "value": "Children and Childhood",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          },
+          {
+            "value": "States (US)",
+            "is_major": "N",
+            "rank": "5",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2014-12-30T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Aaron",
+              "middlename": "E.",
+              "lastname": "CARROLL",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By AARON E. CARROLL"
+        },
+        "type_of_material": "News",
+        "_id": "54a14d4f38f0d8387629d340",
+        "word_count": "985"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/30/upshot/signs-of-a-tightening-labor-market-but-still-room-for-improvement.html",
+        "snippet": "Improvement in labor force participation is a particularly important and encouraging development.",
+        "lead_paragraph": "Improvement in labor force participation is a particularly important and encouraging development.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/31/upshot/27UP-Jared/27UP-Jared-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/31/upshot/27UP-Jared/27UP-Jared-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/31/upshot/27UP-Jared/27UP-Jared-articleLarge.jpg",
+            "height": 376,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/31/upshot/27UP-Jared/27UP-Jared-articleLarge.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/31/upshot/27UP-Jared/27UP-Jared-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/31/upshot/27UP-Jared/27UP-Jared-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Signs of a Tightening Labor Market, but Still Room for Improvement",
+          "kicker": "The Upshot",
+          "content_kicker": "Today's Economist"
+        },
+        "keywords": [
+          {
+            "value": "Labor and Jobs",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "Unemployment",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Recession and Depression",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          },
+          {
+            "value": "United States Economy",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          },
+          {
+            "value": "Bureau of Labor Statistics",
+            "is_major": "N",
+            "rank": "5",
+            "name": "organizations"
+          }
+        ],
+        "pub_date": "2014-12-30T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Jared",
+              "lastname": "BERNSTEIN"
+            }
+          ],
+          "original": "By JARED BERNSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "54a14d3838f0d8387629d33f",
+        "word_count": "941"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/27/upshot/perfect-midterm-predictions-two-winners-of-the-upshot-cup.html",
+        "snippet": "A computer programmer and a statistics lecturer picked winners in all 36 Senate races with 100 percent confidence the day before Election Day.",
+        "lead_paragraph": "A computer programmer and a statistics lecturer picked winners in all 36 Senate races with 100 percent confidence the day before Election Day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/31/upshot/27UP-Cup/27UP-Cup-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/31/upshot/27UP-Cup/27UP-Cup-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/31/upshot/27UP-Cup/27UP-Cup-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/31/upshot/27UP-Cup/27UP-Cup-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/31/upshot/27UP-Cup/27UP-Cup-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/31/upshot/27UP-Cup/27UP-Cup-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Perfect Midterm Predictions: Two Winners of the Upshot Cup",
+          "kicker": "The Upshot",
+          "content_kicker": "Political Calculus"
+        },
+        "keywords": [
+          {
+            "value": "Midterm Elections (2014)",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "Elections, Senate",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Statistics",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2014-12-27T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Josh",
+              "lastname": "KATZ"
+            }
+          ],
+          "original": "By JOSH KATZ"
+        },
+        "type_of_material": "News",
+        "_id": "549d7e6438f0d8754689120d",
+        "word_count": "529"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/25/upshot/people-are-shopping-for-health-insurance-surprisingly.html",
+        "snippet": "The high rate of shopping may be a good sign for the future of the exchanges, where price competition is the primary mechanism for keeping premiums low.",
+        "lead_paragraph": "The high rate of shopping may be a good sign for the future of the exchanges, where price competition is the primary mechanism for keeping premiums low.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/31/upshot/25UP-Switch/25UP-Switch-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/31/upshot/25UP-Switch/25UP-Switch-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/31/upshot/25UP-Switch/25UP-Switch-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/31/upshot/25UP-Switch/25UP-Switch-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/31/upshot/25UP-Switch/25UP-Switch-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/31/upshot/25UP-Switch/25UP-Switch-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "People Are Shopping for Health Insurance, Surprisingly",
+          "kicker": "The Upshot",
+          "content_kicker": "The New Health Care"
+        },
+        "keywords": [
+          {
+            "value": "Patient Protection and Affordable Care Act (2010)",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "Health Insurance and Managed Care",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "HealthCare.gov",
+            "is_major": "N",
+            "rank": "3",
+            "name": "organizations"
+          },
+          {
+            "value": "Shopping and Retail",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2014-12-25T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Margot",
+              "lastname": "SANGER-KATZ"
+            }
+          ],
+          "original": "By MARGOT SANGER-KATZ"
+        },
+        "type_of_material": "News",
+        "_id": "549b288d38f0d845e1a76c1a",
+        "word_count": "618"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/25/upshot/pandoras-top-christmas-songs-from-mariah-carey-to-eartha-kitt.html",
+        "snippet": "If you’ve been in public in the past month, you’ve been forced to hear Christmas music. But what do people like when they can choose?",
+        "lead_paragraph": "If you’ve been in public in the past month, you’ve been forced to hear Christmas music. But what do people like when they can choose?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/31/upshot/25UP-Music/25UP-Music-thumbWide-v2.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/31/upshot/25UP-Music/25UP-Music-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/31/upshot/25UP-Music/25UP-Music-articleLarge-v2.jpg",
+            "height": 487,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/31/upshot/25UP-Music/25UP-Music-articleLarge-v2.jpg",
+              "xlargeheight": "487"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/31/upshot/25UP-Music/25UP-Music-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/31/upshot/25UP-Music/25UP-Music-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pandora’s Top Christmas Songs: From Mariah Carey to Eartha Kitt",
+          "kicker": "The Upshot",
+          "content_kicker": "Holiday Playlist"
+        },
+        "keywords": [
+          {
+            "value": "Christmas",
+            "is_major": "N",
+            "rank": "1",
+            "name": "subject"
+          },
+          {
+            "value": "Music",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Pandora Media Inc",
+            "is_major": "N",
+            "rank": "3",
+            "name": "organizations"
+          },
+          {
+            "value": "Video Recordings, Downloads and Streaming",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2014-12-25T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Damon",
+              "lastname": "DARLIN"
+            }
+          ],
+          "original": "By DAMON DARLIN"
+        },
+        "type_of_material": "News",
+        "_id": "549b164f38f0d845e1a76bea",
+        "word_count": "623"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/24/upshot/as-economy-strengthens-obamas-popularity-is-likely-to-rise.html",
+        "snippet": "History suggests that President Obama will get credit if growth continues, but public opinion tends to lag objective measures.",
+        "lead_paragraph": "History suggests that President Obama will get credit if growth continues, but public opinion tends to lag objective measures.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "wide",
+            "url": "images/2014/12/24/upshot/24UP-NYHAN/24UP-NYHAN-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "wide": "images/2014/12/24/upshot/24UP-NYHAN/24UP-NYHAN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "xlarge",
+            "url": "images/2014/12/24/upshot/24UP-NYHAN/24UP-NYHAN-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/24/upshot/24UP-NYHAN/24UP-NYHAN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2014/12/24/upshot/24UP-NYHAN/24UP-NYHAN-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/24/upshot/24UP-NYHAN/24UP-NYHAN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As Economy Strengthens, Obama’s Popularity Is Likely to Rise",
+          "kicker": "The Upshot",
+          "content_kicker": "The Rating Game"
+        },
+        "keywords": [
+          {
+            "value": "Obama, Barack",
+            "is_major": "N",
+            "rank": "1",
+            "name": "persons"
+          },
+          {
+            "value": "Polls and Public Opinion",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Economic Conditions and Trends",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          },
+          {
+            "value": "United States Economy",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2014-12-24T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Brendan",
+              "lastname": "NYHAN"
+            }
+          ],
+          "original": "By BRENDAN NYHAN"
+        },
+        "type_of_material": "News",
+        "_id": "549aacd038f0d879a54186ae",
+        "word_count": "676"
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/poynter/headline-scrapers/vox/rproject",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

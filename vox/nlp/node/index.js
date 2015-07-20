@@ -91,11 +91,13 @@ allstemmedtokens.sort(function(x, y){
    return d3.descending(x.counter, y.counter);
 })
 
-// // allbigrams.sort(function(x, y){
-// //    return d3.descending(x.counter, y.counter);
-// // })
+alltokens.sort(function(x, y){
+   return d3.descending(x.counter, y.counter);
+})
 
 fs.writeFileSync('allstemmedtokens.json', JSON.stringify(allstemmedtokens));
+fs.writeFileSync('alltokens.json', JSON.stringify(alltokens));
+
 // var hillary = _.filter(data, function(row){ return _.contains(row.tokens, 'Hillary') });
 
 // console.log('data length is' + data.length)
